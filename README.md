@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<a href="#"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" style='border-radius:5px' alt="Get Break the wall"></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/break-the-wall/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" style='border-radius:5px' alt="Get Break the wall"></a>
 
 This plugin makes it easy to find information on the medium.
 This adds a new toolbar button.
